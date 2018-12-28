@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="RestAPI_Samples"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/groovy-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/groovy-json-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/groovy-xml-2.4.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/jaxb-osgi-2.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/json-path-3.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/json-path-3.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/rest-assured-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/rest-assured-3.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/rest-assured-3.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/rest-assured-common-3.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/rest-assured-common-3.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/xml-path-3.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/xml-path-3.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/json-path-3.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/REST API Workspace/RestAPI/lib/java-json.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
